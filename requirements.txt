@@ -2,3 +2,10 @@ opencv-python
 opencv-contrib-python
 mediapipe
 pygame
+numpy
+scikit-learn
+joblib
+mutagen
+pyautogui
+pyttsx3
+winsdk
